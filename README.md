@@ -103,3 +103,4 @@ However,
 * Files from [`Assets/PassthroughCameraApiSamples/MultiObjectDetection/SentisInference/Model`](./Assets/PassthroughCameraApiSamples/MultiObjectDetection/SentisInference/Model) are licensed under [`MIT`](https://github.com/MultimediaTechLab/YOLO/blob/main/LICENSE).
 
 See the [`CONTRIBUTING`](./CONTRIBUTING.md) file for how to help out.
+Created by Jason Scott Heise
